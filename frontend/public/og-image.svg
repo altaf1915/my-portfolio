@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07110d"/>
+      <stop offset="1" stop-color="#173b2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="1030" cy="110" r="190" fill="#56f39a" opacity=".16"/>
+  <circle cx="110" cy="560" r="250" fill="#56f39a" opacity=".08"/>
+  <text x="90" y="190" fill="#56f39a" font-size="28" font-family="Arial" font-weight="700">PORTFOLIO</text>
+  <text x="90" y="290" fill="white" font-size="76" font-family="Arial" font-weight="800">Your Name</text>
+  <text x="90" y="355" fill="#d6e2db" font-size="35" font-family="Arial">Full-Stack Developer · UI/UX Designer</text>
+  <rect x="90" y="430" width="250" height="62" rx="31" fill="#56f39a"/>
+  <text x="215" y="470" text-anchor="middle" fill="#06100c" font-size="22" font-family="Arial" font-weight="700">Available for work</text>
+</svg>
