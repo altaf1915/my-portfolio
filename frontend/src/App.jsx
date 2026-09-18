@@ -10,7 +10,7 @@ import Services from "./components/Services";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
-export const API_URL = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? "http://localhost:5000/api" : "/api");
+export const API_URL = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? "https://my-portfolio-pemc.onrender.com/api" : "/api");
 
 export default function App() {
   return (
