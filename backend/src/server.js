@@ -10,7 +10,7 @@ import { addMessage, getProjects, initStore } from "./store.js";
 
 const app = express();
 const port = Number(process.env.PORT || 5000);
-const clientUrl = process.env.CLIENT_URL || "http://localhost:5173";
+const clientUrl = process.env.CLIENT_URL || "https://my-portfolio-puce-tau-3mp0i6a014.vercel.app";
 
 app.disable("x-powered-by");
 app.use(helmet({ crossOriginResourcePolicy: { policy: "cross-origin" } }));
